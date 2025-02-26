@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jafeth Lagos
 
-<!--
-**lagos788/lagos788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy un apasionado de la tecnología y la programación. Actualmente trabajo como **Docente** e **Ingeniero en Ciencias de la Computación**. También me encanta explorar nuevas tecnologías y mejorar la automatización de procesos.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas
+- 💻 **Lenguajes:** JavaScript, Apex, HTML, CSS
+- ⚡ **Frameworks & Librerías:** Lightning Web Components (LWC), Node.js
+- 🔧 **Herramientas:** Git, VS Code, Celigo, NetSuite, Salesforce
+- ☁️ **Plataformas:** Salesforce, AWS, Heroku
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estadísticas de GitHub
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
+## 📫 ¡Contáctame!
+- 💼 [LinkedIn](https://www.linkedin.com/in/lagos788/)
+- 🐦 [Twitter](https://twitter.com/lagos788)
+
+---
+⭐️ _Si te gusta mi trabajo, ¡considera darme una estrella en mis repositorios!_ 🚀
